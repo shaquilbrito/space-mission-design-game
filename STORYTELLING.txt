@@ -1,0 +1,1 @@
+Introdução v2: 25 segundos, ilustrações SVG originais locais, movimento 2.5D por zoom e transições, português/inglês/francês/espanhol por idioma do navegador e selector manual. Voz: síntese do navegador com preferência por vozes Natural/Neural/Premium quando disponíveis; não inclui gravação profissional. Som requer clique. Restante código preservado.
